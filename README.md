@@ -1,4 +1,9 @@
 # winamp-droid
+
+What it is:
+
+It's a remote control server for winamp and an implementation of the client for the android platform.
+
 Buiild instructions:
 
 To build the winamp plugin dll, you need the headers from the winamp sdk, available here: http://download.nullsoft.com/winamp/plugin-dev/WA5.55_SDK.exe
