@@ -2,6 +2,7 @@
 Buiild instructions:
 
 To build the winamp plugin dll, you need the headers from the winamp sdk, available here: http://download.nullsoft.com/winamp/plugin-dev/WA5.55_SDK.exe
+
 Add the root folder of winamp sdk to the dependencies.
 Afterwards just palce the dll into the plugins directory of winamp and restart it.
 
